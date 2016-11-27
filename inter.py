@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-
-import pygame
 from tkinter import *
-import os
-import sys
+import os , sys
 
 #FUNCOES
 def interfaces():
